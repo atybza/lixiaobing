@@ -56,8 +56,8 @@
   },
   "c_1776066891072": {
     "name": "真人摄影",
-    "suffix": "photorealistic, hyperrealistic, raw photo, 8k, detailed skin texture, natural lighting, realistic, canon r5, 50mm, f/1.8, shallow depth of field",
-    "neg": "anime, cartoon, painting, illustration, drawing, 3d render, cgi, low quality, blurry, bad anatomy, disfigured, ugly, watermark",
+    "suffix": "photorealistic, hyperrealistic, raw candid photo, 8k uhd, detailed skin pores, natural skin imperfections, subsurface scattering, fujifilm pro 400h, 35mm lens, f/2.8, editorial photography, realistic human proportions, no anime, no cartoon, no illustration, no painting, no cgi",
+    "neg": "anime, cartoon, manga, 2d, illustration, painting, drawing, sketch, digital art, cgi, 3d render, cell shading, lineart, flat color, vector, stylized, unreal engine, blender, zbrush, lowres, bad anatomy, blurry, worst quality, jpeg artifacts, oversaturated, plastic skin, doll face, big eyes, oversized head, childish proportions",
     "sampler": "k_dpmpp_2m",
     "steps": 35,
     "scale": 4.5,
